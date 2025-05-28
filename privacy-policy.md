@@ -30,4 +30,4 @@ Users can delete their data by uninstalling the application from their device.
 This Privacy Policy may be updated from time to time. Changes will be announced within the application or on our official page.
 
 ## 8. Contact  
-For any questions or concerns, please contact us at primemumiapm@gmail.com.
+For any questions or concerns, please contact us at [support email address].
