@@ -1,6 +1,6 @@
 # Privacy Policy  
 **Rusik VPN**  
-Last Updated: [Insert Date]
+Last Updated: 28.05.2025
 
 ## 1. Introduction  
 Rusik VPN values user privacy. This Privacy Policy explains what information we collect when you use our application, how we use it, and how we protect it.
@@ -30,4 +30,4 @@ Users can delete their data by uninstalling the application from their device.
 This Privacy Policy may be updated from time to time. Changes will be announced within the application or on our official page.
 
 ## 8. Contact  
-For any questions or concerns, please contact us at [support email address].
+For any questions or concerns, please contact us at primemumiapm@gmail.com.
