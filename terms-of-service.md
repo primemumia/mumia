@@ -1,6 +1,6 @@
 # Terms of Service  
 **Rusik VPN**  
-Last Updated: [Insert Date]
+Last Updated: 28.05.2025
 
 ## 1. Acceptance  
 By using Rusik VPN, you agree to these Terms of Service and our Privacy Policy.
@@ -29,4 +29,4 @@ For details on how we protect your privacy, please see our **[Privacy Policy](pr
 These Terms of Service may be updated from time to time. Changes will be announced within the application or on our official page.
 
 ## 8. Contact  
-For any questions or concerns, please contact us at [support email address].
+For any questions or concerns, please contact us at primemumiapm@gmail.com.
